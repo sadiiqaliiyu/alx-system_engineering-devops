@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R ugo+rx /h/*/
+sudo chmod -R 755 /h/*/
