@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
 #uses ssh to connect to a remote server
-ssh-copy-id -i ~/.ssh/school ubuntu@100.25.152.237
 
 ssh -i ~/.ssh/school ubuntu@100.25.152.237
